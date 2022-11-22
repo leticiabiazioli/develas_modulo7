@@ -1,0 +1,1346 @@
+{
+    "AAG": {
+        "nome": "Aeroporto Avelino Vieira",
+        "localidade": "Arapoti"
+    },
+    "AAI": {
+        "nome": "Aeroporto de Arraias",
+        "localidade": "Arraias"
+    },
+    "AAX": {
+        "nome": "Aeroporto Romeu Zema",
+        "localidade": "Araxá"
+    },
+    "AFL": {
+        "nome": "Aeroporto Piloto Osvaldo Marques Dias",
+        "localidade": "Alta Floresta"
+    },
+    "AIF": {
+        "nome": "Aeroporto Marcelo Pires Halzhausen",
+        "localidade": "Assis"
+    },
+    "AIR": {
+        "nome": "Aeroporto de Aripuanã",
+        "localidade": "Aripuanã"
+    },
+    "AJU": {
+        "nome": "Aeroporto de Santa Maria",
+        "localidade": "Aracaju"
+    },
+    "ALQ": {
+        "nome": "Aeroporto Alegrete Novo",
+        "localidade": "Alegrete"
+    },
+    "ALT": {
+        "nome": "Aeroporto Municipal de Alenquer",
+        "localidade": "Alenquer"
+    },
+    "AMJ": {
+        "nome": "Aeroporto Cirilo Queiróz",
+        "localidade": "Almenara"
+    },
+    "APQ": {
+        "nome": "Aeroporto de Arapiraca",
+        "localidade": "Arapiraca"
+    },
+    "APS": {
+        "nome": "Aeroporto de Anápolis",
+        "localidade": "Anápolis"
+    },
+    "APU": {
+        "nome": "Aeroporto Capitão João Busse",
+        "localidade": "Apucarana"
+    },
+    "APX": {
+        "nome": "Aeroporto de Arapongas",
+        "localidade": "Arapongas"
+    },
+    "APY": {
+        "nome": "Aeroporto do Alto Parnaíba",
+        "localidade": "Alto Parnaíba"
+    },
+    "AQA": {
+        "nome": "Aeroporto de Araraquara",
+        "localidade": "Araraquara"
+    },
+    "AQM": {
+        "nome": "Aeroporto Nova Vida",
+        "localidade": "Ariquemes"
+    },
+    "ARS": {
+        "nome": "Aeroporto de Aragarças",
+        "localidade": "Aragarças"
+    },
+    "ARU": {
+        "nome": "Aeroporto de Araçatuba",
+        "localidade": "Araçatuba"
+    },
+    "ARX": {
+        "nome": "Aeroporto de Aracati",
+        "localidade": "Aracati"
+    },
+    "ATM": {
+        "nome": "Aeroporto de Altamira",
+        "localidade": "Altamira"
+    },
+    "AUX": {
+        "nome": "Aeroporto de Araguaína",
+        "localidade": "Araguaína"
+    },
+    "AXE": {
+        "nome": "Aeroporto de Xanxerê",
+        "localidade": "Xanxerê"
+    },
+    "AZL": {
+        "nome": "Aeroporto Fazenda Tucunaré",
+        "localidade": "Sapezal"
+    },
+    "BAT": {
+        "nome": "Aeroporto Chafei Amsei",
+        "localidade": "Barretos"
+    },
+    "BAU": {
+        "nome": "Aeroporto de Bauru",
+        "localidade": "Bauru"
+    },
+    "BAZ": {
+        "nome": "Aeroporto de Barcelos",
+        "localidade": "Barcelos"
+    },
+    "BCR": {
+        "nome": "Aeroporto Novo Campo",
+        "localidade": "Boca do Acre"
+    },
+    "BDC": {
+        "nome": "Aeroporto Barra do Corda",
+        "localidade": "Barra Do Corda"
+    },
+    "BEL": {
+        "nome": "Aeroporto Internacional de Belém Val-de-Cães",
+        "localidade": "Belém"
+    },
+    "BFH": {
+        "nome": "Aeroporto do Bacacheri",
+        "localidade": "Curitiba"
+    },
+    "BGV": {
+        "nome": "Aeroclube de Bento Gonçalves",
+        "localidade": "Bento Gonçalves"
+    },
+    "BGX": {
+        "nome": "Aeroporto Comandante Gustavo Kraemer",
+        "localidade": "Bagé"
+    },
+    "BJP": {
+        "nome": "Aeroporto Estadual Arthur Siqueira",
+        "localidade": "Bragança Paulista"
+    },
+    "BMS": {
+        "nome": "Aeroporto Sócrates Mariani Bittencourt",
+        "localidade": "Brumado"
+    },
+    "BNU": {
+        "nome": "Aeroporto de Blumenau",
+        "localidade": "Blumenau"
+    },
+    "BPG": {
+        "nome": "Aeroporto Barra do Garças",
+        "localidade": "Barra dos Garças"
+    },
+    "BPS": {
+        "nome": "Aeroporto de Porto Seguro",
+        "localidade": "Porto Seguro"
+    },
+    "BQQ": {
+        "nome": "Aeroporto de Barra",
+        "localidade": "Barra"
+    },
+    "BRA": {
+        "nome": "Aeroporto de Barreiras",
+        "localidade": "Barreiras"
+    },
+    "BRB": {
+        "nome": "Aeroporto de Barreirinhas",
+        "localidade": "Barreirinhas"
+    },
+    "BSB": {
+        "nome": "Aeroporto Internacional Presidente Juscelino Kubitschek",
+        "localidade": "Brasília"
+    },
+    "BSS": {
+        "nome": "Aeroporto de Balsas",
+        "localidade": "Balsas"
+    },
+    "BVB": {
+        "nome": "Aeroporto Atlas Brasil Cantanhede",
+        "localidade": "Boa Vista"
+    },
+    "BVH": {
+        "nome": "Aeroporto Brigadeiro Camarão",
+        "localidade": "Vilhena"
+    },
+    "BVM": {
+        "nome": "Aeroporto Belmonte",
+        "localidade": "Belmonte"
+    },
+    "BVS": {
+        "nome": "Aeroporto de Breves",
+        "localidade": "Breves"
+    },
+    "BYO": {
+        "nome": "Aeroporto de Bonito",
+        "localidade": "Bonito"
+    },
+    "BZC": {
+        "nome": "Aeroporto Umberto Modiano",
+        "localidade": "Cabo Frio"
+    },
+    "CAC": {
+        "nome": "Aeroporto de Cascavel",
+        "localidade": "Cascavel"
+    },
+    "CAF": {
+        "nome": "Aeroporto de Carauari",
+        "localidade": "Carauari"
+    },
+    "CAU": {
+        "nome": "Aeroporto de Caruaru",
+        "localidade": "Caruaru"
+    },
+    "CAW": {
+        "nome": "Aeroporto Bartolomeu Lisandro",
+        "localidade": "Campos dos Goytacazes"
+    },
+    "CBW": {
+        "nome": "Aeroporto de Campo Mourão",
+        "localidade": "Campo Mourão"
+    },
+    "CCI": {
+        "nome": "Aeroporto da Concórdia",
+        "localidade": "Concórdia"
+    },
+    "CCM": {
+        "nome": "Aeroporto Diomício Freitas",
+        "localidade": "Forquilhinha"
+    },
+    "CCX": {
+        "nome": "Aeroporto de Cáceres",
+        "localidade": "Cáceres"
+    },
+    "CDI": {
+        "nome": "Aeroporto de Cachoeiro do Itapemirim",
+        "localidade": "Cachoeiro de Itapemirim"
+    },
+    "CDJ": {
+        "nome": "Aeroporto de Conceição do Araguaia",
+        "localidade": "Conceição do Araguaia"
+    },
+    "CFB": {
+        "nome": "Aeroporto de Cabo Frio",
+        "localidade": "Cabo Frio"
+    },
+    "CFC": {
+        "nome": "Aeroporto Carlos Alberto da Costa Neves",
+        "localidade": "Caçador"
+    },
+    "CFO": {
+        "nome": "Aeroporto de Confresa",
+        "localidade": "Confresa"
+    },
+    "CGB": {
+        "nome": "Aeroporto Marechal Rondon",
+        "localidade": "Cuiabá"
+    },
+    "CGH": {
+        "nome": "Aeroporto de Congonhas",
+        "localidade": "Congonhas"
+    },
+    "CGR": {
+        "nome": "Aeroporto de Campo Grande",
+        "localidade": "Campo Grande"
+    },
+    "CIZ": {
+        "nome": "Aeroporto Regional de Coari",
+        "localidade": "Coari"
+    },
+    "CKO": {
+        "nome": "Aeroporto de Cornélio Procópio",
+        "localidade": "Cornélio Procópio"
+    },
+    "CKS": {
+        "nome": "Aeroporto de Carajás",
+        "localidade": "Carajás"
+    },
+    "CLN": {
+        "nome": "Aeroporto Brigaadeiro Lysias Augusto Rodrigues",
+        "localidade": "Carolina"
+    },
+    "CLV": {
+        "nome": "Aeroporto Nelson Ribeiro Guimarães",
+        "localidade": "Caldas Novas"
+    },
+    "CMC": {
+        "nome": "Aeroporto de Camocim",
+        "localidade": "Camocim"
+    },
+    "CMG": {
+        "nome": "Aeroporto de Corumbá International",
+        "localidade": "Corumbá"
+    },
+    "CMP": {
+        "nome": "Aeroporto de Santana do Araguaia",
+        "localidade": "Santana Do Araguaia"
+    },
+    "CMT": {
+        "nome": "Aeroporto New Cametá",
+        "localidade": "Cametá"
+    },
+    "CNF": {
+        "nome": "Aeroporto Internacional Tancredo Neves",
+        "localidade": "Belo Horizonte"
+    },
+    "CNV": {
+        "nome": "Aeroporto de Canavieiras",
+        "localidade": "Canavieiras"
+    },
+    "CPQ": {
+        "nome": "Aeroporto Campo dos Amarais",
+        "localidade": "Campo dos Amarais"
+    },
+    "CPU": {
+        "nome": "Aeroporto de Cururupu",
+        "localidade": "Cururupu"
+    },
+    "CPV": {
+        "nome": "Aeroporto Presidente João Suassuna",
+        "localidade": "Campina Grande"
+    },
+    "CQA": {
+        "nome": "Aeroporto de Canarana",
+        "localidade": "Canarana"
+    },
+    "CQS": {
+        "nome": "Aeroporto de Costa Marques",
+        "localidade": "Costa Marques"
+    },
+    "CRQ": {
+        "nome": "Aeroporto de Caravelas",
+        "localidade": "Caravelas"
+    },
+    "CSS": {
+        "nome": "Aeroporto de Cassilândia",
+        "localidade": "Cassilândia"
+    },
+    "CSU": {
+        "nome": "Aeroporto de Santa Cruz do Sul",
+        "localidade": "Santa Cruz Do Sul"
+    },
+    "CTP": {
+        "nome": "Aeroporto de Carutapera",
+        "localidade": "Carutapera"
+    },
+    "CTQ": {
+        "nome": "Aeroporto de Santa Vitória do Palmar",
+        "localidade": "Santa Vitória Do Palmar"
+    },
+    "CWB": {
+        "nome": "Aeroporto Internacional Afonso Pena",
+        "localidade": "Curitiba"
+    },
+    "CXJ": {
+        "nome": "Aeroporto Regional Hugo Cantergiani",
+        "localidade": "Caxias do Sul"
+    },
+    "CZB": {
+        "nome": "Aeroporto Carlos Ruhl",
+        "localidade": "Cruz Alta"
+    },
+    "CZS": {
+        "nome": "Aeroporto Internacional de Cruzeiro do Sul",
+        "localidade": "Cruzeiro do Sul"
+    },
+    "DIQ": {
+        "nome": "Aeroporto Brigadeiro Cabral",
+        "localidade": "Divinópolis"
+    },
+    "DMT": {
+        "nome": "Aeroporto de Diamantino",
+        "localidade": "Diamantino"
+    },
+    "DNO": {
+        "nome": "Aeroporto de Dianópolis",
+        "localidade": "Dianópolis"
+    },
+    "DOU": {
+        "nome": "Aeroporto de Dourados",
+        "localidade": "Dourados"
+    },
+    "DTI": {
+        "nome": "Aeroporto de Diamantina",
+        "localidade": "Diamantina"
+    },
+    "ERM": {
+        "nome": "Aeroporto de Erechim",
+        "localidade": "Erechim"
+    },
+    "ERN": {
+        "nome": "Aeroporto de Eirunepé",
+        "localidade": "Eirunepé"
+    },
+    "ESI": {
+        "nome": "Aeroporto de Espinosa",
+        "localidade": "Espinosa"
+    },
+    "FBA": {
+        "nome": "Aeroporto de Fonte Boa",
+        "localidade": "Fonte Boa"
+    },
+    "FBE": {
+        "nome": "Aeroporto de Francisco Beltrão",
+        "localidade": "Francisco Beltrão"
+    },
+    "FEC": {
+        "nome": "Aeroporto João Durval Carneiro",
+        "localidade": "Feira de Santana"
+    },
+    "FEJ": {
+        "nome": "Aeroporto de Feijó",
+        "localidade": "Feijó"
+    },
+    "FEN": {
+        "nome": "Aeroporto Fernando de Noronha",
+        "localidade": "Fernando de Noronha"
+    },
+    "FLB": {
+        "nome": "Aeroporto Cangapara",
+        "localidade": "Floriano"
+    },
+    "FLN": {
+        "nome": "Aeroporto Internacional Hercílio Luz",
+        "localidade": "Florianópolis"
+    },
+    "FOR": {
+        "nome": "Aeroporto Internacional Pinto Martins",
+        "localidade": "Fortaleza"
+    },
+    "FRC": {
+        "nome": "Aeroporto Tenente Lund Pressoto",
+        "localidade": "Franca"
+    },
+    "GCV": {
+        "nome": "Aeroporto de Gravatai",
+        "localidade": "Gravatai"
+    },
+    "GDP": {
+        "nome": "Aeroporto de Guadalupe",
+        "localidade": "Guadalupe"
+    },
+    "GEL": {
+        "nome": "Aeroporto  Santo Ângelo",
+        "localidade": "Santo Ângelo"
+    },
+    "GIG": {
+        "nome": "Aeroporto Internacional Tom Jobim",
+        "localidade": "Galeão"
+    },
+    "GJM": {
+        "nome": "Aeroporto Guajará-Mirim",
+        "localidade": "Guajará-Mirim"
+    },
+    "GMS": {
+        "nome": "Aeroporto Antônio Guerreiro",
+        "localidade": "Guimarães"
+    },
+    "GNM": {
+        "nome": "Aeroporto de Guanambi",
+        "localidade": "Guanambi"
+    },
+    "GPB": {
+        "nome": "Aeroporto Tancredo Thomas de Faria",
+        "localidade": "Guarapuava"
+    },
+    "GRP": {
+        "nome": "Aeroporto de Gurupi",
+        "localidade": "Gurupi"
+    },
+    "GRU": {
+        "nome": "Aeroporto Internacional Governador André Franco Montoro",
+        "localidade": "São Paulo"
+    },
+    "GUJ": {
+        "nome": "Aeroporto de Guaratinguetá",
+        "localidade": "Guaratinguetá"
+    },
+    "GUZ": {
+        "nome": "Aeroporto de Guarapari",
+        "localidade": "Guarapari"
+    },
+    "GVR": {
+        "nome": "Aeroporto Coronel Altino Machado de Oliveira",
+        "localidade": "Governador Valadares"
+    },
+    "GYN": {
+        "nome": "Aeroporto Internacional Santa Genoveva",
+        "localidade": "Goiânia"
+    },
+    "HRZ": {
+        "nome": "Aeroporto Walter Bündchen",
+        "localidade": "Horizontina"
+    },
+    "HUW": {
+        "nome": "Aeroporto de Humaitá",
+        "localidade": "Humaitá"
+    },
+    "IDO": {
+        "nome": "Aeroporto Santa Izabel do Morro",
+        "localidade": "Cristalândia"
+    },
+    "IGU": {
+        "nome": "Aeroporto Internacional Cataratas",
+        "localidade": "Foz do Iguaçu"
+    },
+    "IJU": {
+        "nome": "Aeroporto de Ijuí",
+        "localidade": "Ijuí"
+    },
+    "IMP": {
+        "nome": "Aeroporto Prefeito Renato Moreira",
+        "localidade": "Imperatriz"
+    },
+    "IOS": {
+        "nome": "Aeroporto  Jorge Amado",
+        "localidade": "Ilhéus"
+    },
+    "IPG": {
+        "nome": "Aeroporto Ipiranga",
+        "localidade": "Santo Antônio Do Içá"
+    },
+    "IPN": {
+        "nome": "Aeroporto Usiminas",
+        "localidade": "Ipatinga"
+    },
+    "IPU": {
+        "nome": "Aeroporto Ipiaú",
+        "localidade": "Ipiaú"
+    },
+    "IRE": {
+        "nome": "Aeroporto de Irecê",
+        "localidade": "Irecê"
+    },
+    "IRZ": {
+        "nome": "Aeroporto de Tapuruquara ",
+        "localidade": "Santa Isabel Do Rio Negro"
+    },
+    "ITA": {
+        "nome": "Aeroporto de Itacoatiara",
+        "localidade": "Itacoatiara"
+    },
+    "ITB": {
+        "nome": "Aeroporto de Itaituba",
+        "localidade": "Itaituba"
+    },
+    "ITE": {
+        "nome": "Aeroporto de Ituberá",
+        "localidade": "Ituberá"
+    },
+    "ITI": {
+        "nome": "Aeroporto Agropecuária Castanhais",
+        "localidade": "Cumaru Do Norte"
+    },
+    "ITN": {
+        "nome": "Aeroporto Tertuliano Guedes de Pinho",
+        "localidade": "Itabuna"
+    },
+    "ITP": {
+        "nome": "Aeroporto de Itaperuna",
+        "localidade": "Itaperuna"
+    },
+    "ITQ": {
+        "nome": "Aeroporto dr Itaqui",
+        "localidade": "Itaqui"
+    },
+    "ITR": {
+        "nome": "Aeroporto Francisco Vilela do Amaral",
+        "localidade": "Itumbiara"
+    },
+    "IZA": {
+        "nome": "Aeroporto Presidente Itamar Franco",
+        "localidade": "Juiz De Fora"
+    },
+    "JBS": {
+        "nome": "Aeroporto de São Borja",
+        "localidade": "São Borja"
+    },
+    "JCB": {
+        "nome": "Aeroporto Santa Terezinha ",
+        "localidade": "Joaçaba"
+    },
+    "JCM": {
+        "nome": "Aeroporto de Jacobina",
+        "localidade": "Jacobina"
+    },
+    "JCR": {
+        "nome": "Aeroporto de Jacareacanga",
+        "localidade": "Jacareacanga"
+    },
+    "JDF": {
+        "nome": "Aeroporto Francisco de Assis",
+        "localidade": "Juiz De Fora"
+    },
+    "JDO": {
+        "nome": "Aeroporto Orlando Bezerra de Menezes",
+        "localidade": "Juazeiro Do Norte"
+    },
+    "JDR": {
+        "nome": "Aeroporto Prefeito Octávio de Almeida Neves",
+        "localidade": "São João Del Rei"
+    },
+    "JEQ": {
+        "nome": "Aeroporto de Jequié",
+        "localidade": "Jequié"
+    },
+    "JIA": {
+        "nome": "Aeroporto de Juína",
+        "localidade": "Juína"
+    },
+    "JJD": {
+        "nome": "Aeroporto Regional Comandante Ariston Pessoa",
+        "localidade": "Jericoacoara"
+    },
+    "JJG": {
+        "nome": "Aeroporto Regional Humberto Ghizzo Bortoluzzi",
+        "localidade": "Jaguaruna"
+    },
+    "JLS": {
+        "nome": "Aeroporto de Jales",
+        "localidade": "Jales"
+    },
+    "JNA": {
+        "nome": "Aeroporto de Januária",
+        "localidade": "Januária"
+    },
+    "JOI": {
+        "nome": "Aeroporto Lauro Carneiro de Loyola",
+        "localidade": "Joinville"
+    },
+    "JPA": {
+        "nome": "Aeroporto Internacional Presidente Castro Pinto",
+        "localidade": "João Pessoa"
+    },
+    "JPR": {
+        "nome": "Aeroporto de Ji-Paraná",
+        "localidade": "Ji-Paraná"
+    },
+    "JRN": {
+        "nome": "Aeroporto de Juruena",
+        "localidade": "Juruena"
+    },
+    "JTC": {
+        "nome": "Aeroporto Arealva",
+        "localidade": "Bauru"
+    },
+    "JTI": {
+        "nome": "Aeroporto de Jataí",
+        "localidade": "Jataí"
+    },
+    "JUA": {
+        "nome": "Aeroporto Inácio Luís do Nascimento",
+        "localidade": "Juara"
+    },
+    "LAJ": {
+        "nome": "Aeroporto de Lages",
+        "localidade": "Lages"
+    },
+    "LAZ": {
+        "nome": "Aeroporto de Bom Jesus da Lapa",
+        "localidade": "Bom Jesus Da Lapa"
+    },
+    "LBR": {
+        "nome": "Aeroporto de Lábrea",
+        "localidade": "Lábrea"
+    },
+    "LCB": {
+        "nome": "Aeroporto de Pontes e Lacerda",
+        "localidade": "Pontes e Lacerda"
+    },
+    "LDB": {
+        "nome": "Aeroporto Governador José Richa",
+        "localidade": "Londrina"
+    },
+    "LEC": {
+        "nome": "Aeroporto Coronel Horácio de Mattos",
+        "localidade": "Lençóis"
+    },
+    "LEP": {
+        "nome": "Aeroporto de Leopoldina",
+        "localidade": "Leopoldina"
+    },
+    "LIP": {
+        "nome": "Aeroporto de Lins",
+        "localidade": "Lins"
+    },
+    "LOI": {
+        "nome": "Aeroporto Helmuth Baungarten",
+        "localidade": "Lontras"
+    },
+    "LVB": {
+        "nome": "Aeroporto de Santana do Livramento",
+        "localidade": "Santana do Livramento"
+    },
+    "LVR": {
+        "nome": "Aeroporto Municipal Bom Futuro",
+        "localidade": "Lucas do Rio Verde"
+    },
+    "MAB": {
+        "nome": "Aeroporto João Correa da Rocha",
+        "localidade": "Marabá"
+    },
+    "MAO": {
+        "nome": "Aeroporto Internacional Eduardo Gomes",
+        "localidade": "Manaus"
+    },
+    "MBK": {
+        "nome": "Aeroporto Regional Orlando Villas Boas",
+        "localidade": "Matupá"
+    },
+    "MBZ": {
+        "nome": "Aeroporto de Maués",
+        "localidade": "Maués"
+    },
+    "MCP": {
+        "nome": "Aeroporto Internacional de Macapá-Alberto Alcolumbre",
+        "localidade": "Macapá"
+    },
+    "MCZ": {
+        "nome": "Aeroporto Internacional Zumbi dos Palmares",
+        "localidade": "Maceió"
+    },
+    "MEA": {
+        "nome": "Aeroporto de Macaé",
+        "localidade": "Macaé"
+    },
+    "MEU": {
+        "nome": "Aeroporto Monte Dourado",
+        "localidade": "Almeirim"
+    },
+    "MGF": {
+        "nome": "Aeroporto Regional Sílvio Name Júnior",
+        "localidade": "Maringá"
+    },
+    "MII": {
+        "nome": "Aeroporto Estadual Frank Miloye Milenkovich",
+        "localidade": "Marília"
+    },
+    "MNX": {
+        "nome": "Aeroporto de Manicoré",
+        "localidade": "Manicoré"
+    },
+    "MOC": {
+        "nome": "Aeroporto Mário Ribeiro",
+        "localidade": "Montes Claros"
+    },
+    "MQH": {
+        "nome": "Aeroporto de Minaçu",
+        "localidade": "Minaçu"
+    },
+    "MTE": {
+        "nome": "Aeroporto de Monte Alegre",
+        "localidade": "Monte Alegre"
+    },
+    "MTG": {
+        "nome": "Aeroporto de Vila Bela da Santíssima Trindade",
+        "localidade": "Vila Bela Da Santíssima Trindade"
+    },
+    "MVF": {
+        "nome": "Aeroporto Governador Dix-Sept Rosado",
+        "localidade": "Mossoró"
+    },
+    "MVS": {
+        "nome": "Aeroporto de Mucuri",
+        "localidade": "Mucuri"
+    },
+    "NAT": {
+        "nome": "Aeroporto Internacional Governador Aluízio Alves ",
+        "localidade": "Natal"
+    },
+    "NNU": {
+        "nome": "Aeroporto de Nanuque",
+        "localidade": "Nanuque"
+    },
+    "NOK": {
+        "nome": "Aeroporto Xavantina",
+        "localidade": "Nova Xavantina"
+    },
+    "NPR": {
+        "nome": "Aeroporto de Novo Progresso",
+        "localidade": "Novo Progresso"
+    },
+    "NQL": {
+        "nome": "Aeroporto de Niquelândia",
+        "localidade": "Niquelândia"
+    },
+    "NTM": {
+        "nome": "Aeroporto Miracema do Norte",
+        "localidade": "Miracema do Tocantins"
+    },
+    "NVP": {
+        "nome": "Aeroporto de Novo Aripuanã",
+        "localidade": "Novo Aripuanã"
+    },
+    "NVT": {
+        "nome": "Aeroporto Internacional Ministro Victor Konder",
+        "localidade": "Navegantes"
+    },
+    "OAL": {
+        "nome": "Aeroporto de Cacoal",
+        "localidade": "Cacoal"
+    },
+    "OBI": {
+        "nome": "Aeroporto de Óbidos",
+        "localidade": "Óbidos"
+    },
+    "OIA": {
+        "nome": "Aeroporto de Ourilândia do Norte",
+        "localidade": "Ourilândia do Norte"
+    },
+    "OLC": {
+        "nome": "Aeroporto Senadora Eunice Micheles",
+        "localidade": "São Paulo De Olivença"
+    },
+    "OPS": {
+        "nome": "Aeroporto Presidente João Batista Figueiredo",
+        "localidade": "Sinop"
+    },
+    "ORX": {
+        "nome": "Aeroporto de Oriximiná",
+        "localidade": "Oriximiná"
+    },
+    "OTT": {
+        "nome": "Aeroporto Andre Maggi",
+        "localidade": "Cotriguaçu"
+    },
+    "OUS": {
+        "nome": "Aeroporto de Ourinhos",
+        "localidade": "Ourinhos"
+    },
+    "OYK": {
+        "nome": "Aeroporto de Oiapoque",
+        "localidade": "Oiapoque"
+    },
+    "PAV": {
+        "nome": "Aeroporto Paulo Afonso",
+        "localidade": "Paulo Afonso"
+    },
+    "PBB": {
+        "nome": "Aeroporto de Paranaíba",
+        "localidade": "Paranaíba"
+    },
+    "PBQ": {
+        "nome": "Aeroporto de Pimenta Bueno",
+        "localidade": "Pimenta Bueno"
+    },
+    "PBV": {
+        "nome": "Aeroporto de Porto dos Gaúchos",
+        "localidade": "Porto Dos Gaúchos"
+    },
+    "PBX": {
+        "nome": "Aeroporto Fazenda Piraguassu",
+        "localidade": "Porto Alegre Do Norte"
+    },
+    "PCS": {
+        "nome": "Aeroporto de Picos",
+        "localidade": "Picos"
+    },
+    "PDF": {
+        "nome": "Aeroporto de Prado",
+        "localidade": "Prado"
+    },
+    "PDR": {
+        "nome": "Aeroporto de Presidente José Sarney",
+        "localidade": "Presidente Dutra"
+    },
+    "PET": {
+        "nome": "AeroportoInternacional João Simões Lopes Neto",
+        "localidade": "Pelotas"
+    },
+    "PFB": {
+        "nome": "Aeroporto Lauro Kurtz",
+        "localidade": "Passo Fundo"
+    },
+    "PGZ": {
+        "nome": "Aeroporto Comandante Antonio Amilton Beraldo",
+        "localidade": "Ponta Grossa"
+    },
+    "PHB": {
+        "nome": "Aeroporto Internacional Prefeito Doutor João Silva Filho",
+        "localidade": "Parnaíba"
+    },
+    "PHI": {
+        "nome": "Aeroporto de Pinheiro",
+        "localidade": "Pinheiro"
+    },
+    "PIN": {
+        "nome": "Aeroporto de Parintins",
+        "localidade": "Parintins"
+    },
+    "PIV": {
+        "nome": "Aeroporto de Pirapora",
+        "localidade": "Pirapora"
+    },
+    "PLL": {
+        "nome": "Aeroporto de Ponta Pelada",
+        "localidade": "Manaus"
+    },
+    "PLU": {
+        "nome": "Aeroporto Carlos Drummond de Andrade",
+        "localidade": "Pampulha"
+    },
+    "PMG": {
+        "nome": "Aeroporto de Ponta Porã",
+        "localidade": "Ponta Porã"
+    },
+    "PMW": {
+        "nome": "Aeroporto Brigadeiro Lysias Rodrigues",
+        "localidade": "Palmas"
+    },
+    "PNB": {
+        "nome": "Aeroporto de Porto Nacional",
+        "localidade": "Porto Nacional"
+    },
+    "PNG": {
+        "nome": "Aeroporto de Paranaguá",
+        "localidade": "Paranaguá"
+    },
+    "PNZ": {
+        "nome": "Aeroporto Senador Nilo Coelho",
+        "localidade": "Petrolina"
+    },
+    "POA": {
+        "nome": "Aeroporto Internacional Salgado Filho",
+        "localidade": "Porto Alegre"
+    },
+    "POJ": {
+        "nome": "Aeroporto de Patos de Minas",
+        "localidade": "Patos De Minas"
+    },
+    "POO": {
+        "nome": "Aeroporto Embaixador Walther Moreira Salles",
+        "localidade": "Poços De Caldas"
+    },
+    "PPB": {
+        "nome": "Aeroporto de Presidente Prudente",
+        "localidade": "Presidente Prudente"
+    },
+    "PPY": {
+        "nome": "Aeroporto de Pouso Alegre",
+        "localidade": "Pouso Alegre"
+    },
+    "PSW": {
+        "nome": "Aeroporto Municipal José Figueiredo",
+        "localidade": "Passos"
+    },
+    "PTO": {
+        "nome": "Aeroporto Juvenal Loureiro Cardoso",
+        "localidade": "Pato Branco"
+    },
+    "PTQ": {
+        "nome": "Aeroporto de Porto de Moz",
+        "localidade": "Porto De Moz"
+    },
+    "PVH": {
+        "nome": "Aeroporto Governador Jorge Teixeira de Oliveira",
+        "localidade": "Porto Velho"
+    },
+    "PVI": {
+        "nome": "Aeroporto de Paranavaí",
+        "localidade": "Paranavaí"
+    },
+    "QAC": {
+        "nome": "Aeroporto de Castro",
+        "localidade": "Castro"
+    },
+    "QAK": {
+        "nome": "Aeroporto Major Brigadeiro Dorgal Borges",
+        "localidade": "Barbacena"
+    },
+    "QCH": {
+        "nome": "Aeroporto de Colatina",
+        "localidade": "Colatina"
+    },
+    "QCJ": {
+        "nome": "Aeroporto Tancredo de Almeida Neves",
+        "localidade": "Botucatu"
+    },
+    "QCN": {
+        "nome": "Aeroporto de Canela",
+        "localidade": "Canela"
+    },
+    "QCP": {
+        "nome": "Aeroporto Municipal de Botucatu",
+        "localidade": "Botucatu"
+    },
+    "QCR": {
+        "nome": "Aeroporto de Curitibanos",
+        "localidade": "Curitibanos"
+    },
+    "QDB": {
+        "nome": "Aeroporto de Cachoeira do Sul",
+        "localidade": "Cachoeira Do Sul"
+    },
+    "QDC": {
+        "nome": "Aeroporto de Dracena",
+        "localidade": "Dracena"
+    },
+    "QDV": {
+        "nome": "Aeroporto de Jundiaí",
+        "localidade": "Jundiaí"
+    },
+    "QGA": {
+        "nome": "Aeroporto de Guaíra",
+        "localidade": "Guaíra"
+    },
+    "QGB": {
+        "nome": "Aeroporto de Limeira",
+        "localidade": "Limeira"
+    },
+    "QGC": {
+        "nome": "Aeroporto de Lençóis Paulista",
+        "localidade": "Lençóis Paulista"
+    },
+    "QGF": {
+        "nome": "Aeroporto de Montenegro",
+        "localidade": "Montenegro"
+    },
+    "QGP": {
+        "nome": "Aeroporto de Garanhuns",
+        "localidade": "Garanhuns"
+    },
+    "QHB": {
+        "nome": "Aeroporto de Piracicaba",
+        "localidade": "Piracicaba"
+    },
+    "QHN": {
+        "nome": "Aeroporto de Taguatinga",
+        "localidade": "Taguatinga"
+    },
+    "QHP": {
+        "nome": "Aeroporto de Base de Aviação de Taubaté",
+        "localidade": "Taubaté"
+    },
+    "QHV": {
+        "nome": "Aeroporto de Novo Hamburgo",
+        "localidade": "Novo Hamburgo"
+    },
+    "QID": {
+        "nome": "Aeroporto Mélio Viana",
+        "localidade": "Três Corações"
+    },
+    "QIG": {
+        "nome": "Aeroporto de Iguatu",
+        "localidade": "Iguatu"
+    },
+    "QIQ": {
+        "nome": "Aeroporto de Rio Claro",
+        "localidade": "Rio Claro"
+    },
+    "QIT": {
+        "nome": "Aeroporto de Itapetinga",
+        "localidade": "Itapetinga"
+    },
+    "QMF": {
+        "nome": "Aeroporto de Mafra",
+        "localidade": "Mafra"
+    },
+    "QNV": {
+        "nome": "Aeroporto Aeroclube",
+        "localidade": "Nova Iguaçu"
+    },
+    "QOA": {
+        "nome": "Aeroporto de Mococa",
+        "localidade": "Mococa"
+    },
+    "QPS": {
+        "nome": "Aeroporto Campo Fontenelle ",
+        "localidade": "Pirassununga"
+    },
+    "QRZ": {
+        "nome": "Aeroporto de Resende",
+        "localidade": "Resende"
+    },
+    "QSC": {
+        "nome": "Aeroporto Mário Pereira Lopes",
+        "localidade": "São Carlos"
+    },
+    "QVP": {
+        "nome": "Aeroporto Regional Comandante Luiz Gonzaga Lutti",
+        "localidade": "Avaré"
+    },
+    "QVR": {
+        "nome": "Aeroporto de Volta Redonda",
+        "localidade": "Volta Redonda"
+    },
+    "RAO": {
+        "nome": "Aeroporto Leite Lopes",
+        "localidade": "Ribeirão Preto"
+    },
+    "RBB": {
+        "nome": "Aeroporto de Borba",
+        "localidade": "Borba"
+    },
+    "RBR": {
+        "nome": "Aeroporto Internacional Plácido de Castro",
+        "localidade": "Rio Branco"
+    },
+    "RDC": {
+        "nome": "Aeroporto de Redenção",
+        "localidade": "Redenção"
+    },
+    "REC": {
+        "nome": "Aeroporto Internacional Gilberto Freyre",
+        "localidade": "Recife"
+    },
+    "REZ": {
+        "nome": "Aeroporto de Resende",
+        "localidade": "Resende"
+    },
+    "RIA": {
+        "nome": "Aeroporto de Santa Maria",
+        "localidade": "Santa Maria"
+    },
+    "RIG": {
+        "nome": "Aeroporto Regional de Rio Grande",
+        "localidade": "Rio Grande"
+    },
+    "ROO": {
+        "nome": "Aeroporto Municipal Maestro Marinho Franco",
+        "localidade": "Rondonópolis"
+    },
+    "RVD": {
+        "nome": "Aeroporto General Leite de Castro",
+        "localidade": "Rio Verde"
+    },
+    "SB2": {
+        "nome": "Aeroporto Fazenda Bela Vista",
+        "localidade": "3 Marias"
+    },
+    "SBJ": {
+        "nome": "Aeroporto de São Mateus",
+        "localidade": "São Mateus"
+    },
+    "SDU": {
+        "nome": "Aeroporto Internacional Santos Dumont",
+        "localidade": "Rio De Janeiro"
+    },
+    "SFK": {
+        "nome": "Aeroporto de Soure",
+        "localidade": "Soure"
+    },
+    "SJK": {
+        "nome": "Aeroporto Professor Urbano Ernesto Stumpf",
+        "localidade": "São José Dos Campos"
+    },
+    "SJL": {
+        "nome": "Aeroporto de São Gabriel da Cachoeira",
+        "localidade": "São Gabriel Da Cachoeira"
+    },
+    "SJP": {
+        "nome": "Aeroporto Estadual Professor Eribelto Manoel Reino",
+        "localidade": "São José Do Rio Preto"
+    },
+    "SLZ": {
+        "nome": "Aeroporto Internacional Marechal Cunha Machado",
+        "localidade": "São Luís"
+    },
+    "SMT": {
+        "nome": "Aeroporto Regional Adolino Bedin",
+        "localidade": "Sorriso"
+    },
+    "SNZ": {
+        "nome": "Base Aérea de Santa Cruz",
+        "localidade": "Rio de Janeiro"
+    },
+    "SOD": {
+        "nome": "Aeroporto de Sorocaba",
+        "localidade": "Sorocaba"
+    },
+    "SQM": {
+        "nome": "Aeroporto de São Miguel do Araguaia",
+        "localidade": "São Miguel Do Araguaia"
+    },
+    "SQX": {
+        "nome": "Aeroporto de São Miguel do Oeste",
+        "localidade": "São Miguel Do Oeste"
+    },
+    "SQY": {
+        "nome": "Aeroporto de São Lourenço do Sul",
+        "localidade": "São Lourenço Do Sul"
+    },
+    "SRA": {
+        "nome": "Aeroporto de Santa Rosa",
+        "localidade": "Santa Rosa"
+    },
+    "SSA": {
+        "nome": "Aeroporto Internacional Deputado Luiz Eduardo Magalhães",
+        "localidade": "Salvador"
+    },
+    "SSO": {
+        "nome": "Aeroporto de São Lourenço",
+        "localidade": "São Lourenço"
+    },
+    "SSZ": {
+        "nome": "Base Aérea de Santos",
+        "localidade": "Guarujá"
+    },
+    "STM": {
+        "nome": "Aeroporto Maestro Wilson Fonseca",
+        "localidade": "Santarém"
+    },
+    "STZ": {
+        "nome": "Aeroporto de Santa Terezinha",
+        "localidade": "Santa Terezinha"
+    },
+    "SWM": {
+        "nome": "Aeroporto Suia-Missu",
+        "localidade": "Alto Boa Vista"
+    },
+    "SXO": {
+        "nome": "Aeroporto de São Félix do Araguaia",
+        "localidade": "São Félix Do Araguaia"
+    },
+    "SXX": {
+        "nome": "Aeroporto de São Félix do Xingu",
+        "localidade": "São Félix do Xingu"
+    },
+    "TBT": {
+        "nome": "Aeroporto Internacional de Tabatinga",
+        "localidade": "Tabatinga"
+    },
+    "TEC": {
+        "nome": "Aeroporto de Telêmaco Borba",
+        "localidade": "Telêmaco Borba"
+    },
+    "TFF": {
+        "nome": "Aeroporto Regional de Tefé",
+        "localidade": "Tefé"
+    },
+    "TFL": {
+        "nome": "Aeroporto Juscelino Kubitscheck",
+        "localidade": "Teófilo Otoni"
+    },
+    "TGQ": {
+        "nome": "Aeroporto de Tangará da Serra",
+        "localidade": "Tangará Da Serra"
+    },
+    "THE": {
+        "nome": "Aeroporto Senador Petrônio Portela",
+        "localidade": "Teresina"
+    },
+    "TJL": {
+        "nome": "Aeroporto Plínio Alarcom",
+        "localidade": "Três Lagoas"
+    },
+    "TLZ": {
+        "nome": "Aeroporto de Catalão",
+        "localidade": "Catalão"
+    },
+    "TMT": {
+        "nome": "Aeroporto Trombetas",
+        "localidade": "Oriximiná"
+    },
+    "TOW": {
+        "nome": "Aeroporto de Toledo",
+        "localidade": "Toledo"
+    },
+    "TRQ": {
+        "nome": "Aeroporto de Tarauacá",
+        "localidade": "Taraucá"
+    },
+    "TSQ": {
+        "nome": "Aeroporto de Torres",
+        "localidade": "Torres"
+    },
+    "TUR": {
+        "nome": "Aeroporto de Tucuruí",
+        "localidade": "Tucuruí"
+    },
+    "TUZ": {
+        "nome": "Aeroporto de Tucumã",
+        "localidade": "Tucumã"
+    },
+    "TXF": {
+        "nome": "Aeroporto 9 de Maio",
+        "localidade": "Teixeira De Freitas"
+    },
+    "UBA": {
+        "nome": "Aeroporto Mário de Almeida Franco",
+        "localidade": "Uberaba"
+    },
+    "UBT": {
+        "nome": "Aeroporto de Ubatuba",
+        "localidade": "Ubatuba"
+    },
+    "UDI": {
+        "nome": "Aeroporto Tenente Coronel Aviador César Bombonato",
+        "localidade": "Uberlândia"
+    },
+    "UMU": {
+        "nome": "Aeroporto de Umuarama",
+        "localidade": "Umuarama"
+    },
+    "UNA": {
+        "nome": "Aeroporto Hotel Transamérica",
+        "localidade": "Una"
+    },
+    "URB": {
+        "nome": "Aeroporto Urubupunga",
+        "localidade": "Castilho"
+    },
+    "URG": {
+        "nome": "Aeroporto Internacional Rubem Berta",
+        "localidade": "Uruguaiana"
+    },
+    "VAG": {
+        "nome": "Aeroporto Major Brigadeiro Trompowsky",
+        "localidade": "Varginha"
+    },
+    "VAL": {
+        "nome": "Aeroporto de Valença",
+        "localidade": "Valença"
+    },
+    "VCP": {
+        "nome": "Aeroporto Internacional de Viracopos",
+        "localidade": "Campinas"
+    },
+    "VDC": {
+        "nome": "Aeroporto Glauber Rocha",
+        "localidade": "Vitória da Conquista"
+    },
+    "VIA": {
+        "nome": "Aeroporto de Videira",
+        "localidade": "Videira"
+    },
+    "VIX": {
+        "nome": "Aeroporto Eurico de Aguiar Salles",
+        "localidade": "Vitória"
+    },
+    "VLP": {
+        "nome": "Aeroporto de Vila Rica",
+        "localidade": "Vila Rica"
+    },
+    "VOT": {
+        "nome": "Aeroporto de Votuporanga",
+        "localidade": "Votuporanga"
+    },
+    "XAP": {
+        "nome": "Aeroporto Serafin Enoss Bertaso",
+        "localidade": "Chapecó"
+    },
+    "XIG": {
+        "nome": "Aeroporto Municipal de Xinguara",
+        "localidade": "Xinguara"
+    },
+    "ZMD": {
+        "nome": "Aeroporto de Sena Madureira",
+        "localidade": "Sena Madureira"
+    }
+}
